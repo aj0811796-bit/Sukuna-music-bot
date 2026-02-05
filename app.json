@@ -1,28 +1,26 @@
 {
-  "name": "Frozen Music Bot",
+  "name": "Sukuna Music Bot",
   "description": "❄️ Frozen Music — Free Telegram VC music bot that runs on Render, Koyeb, Railway & Heroku easily!",
   "repository": "https://github.com/prashantsahlot/frozenvcmusicbot",
   "logo": "https://telegra.ph/file/d02b81736a7e9519c6386.jpg",
   "keywords": ["telegram", "music", "bot", "vc", "python"],
   "env": {
     "API_HASH": {
-      "description": "Your Telegram API_HASH from https://my.telegram.org",
-      "required": true
-    },
+      "description": "3dfba33f88dfd524b32bbda3e9137000",
+      "required": true    },
     "API_ID": {
-      "description": "Your Telegram API_ID from https://my.telegram.org",
+      "description": "30776954"g,
       "required": true
     },
     "ASSISTANT_SESSION": {
-      "description": "Pyrogram string session for assistant account",
-      "required": true
-    },
-    "BOT_TOKEN": {
-      "description": "Your Telegram bot token from @BotFather",
+      "discription" : "BQIygakAvkEA8CssRO8VwhrMjs5RNtn3o2dTBoLIipg311xQXomBH6K4wKG4IDEdy_nOl5FeMm7FfeG0ySpjJ4IvnFVUxc3hWbYEE0jwZtcZ-5tKVRihquyyYO2IOchQ4WlKDMq7UkoOuuAWzWydTXBg_hQcV-QH4xhMRNbOxR-SlJKG9yyGKeRFxjwxWQ5w1tYRRUO7X8IXwWRdcr-aryf29JnO8ZVGy5J3hNyBKNGATKEySCryXrTSj7Bu7TmpCVMrVwReduz0ZmqOtaK5N1ofTPjacoQiPzg1RWc9XpLqIJ3IdvZRWVa9Y_iFxa58Rrog0o4nnzfo0eLmbWB9YbZUyTGTLwAAAAF686VJAA",
+      "required": true }
+    BOT_TOKEN": {
+      "description": "8464370713:AAEB6sOM3pJvBinF09M4vpYuVxrQcM4pFjs",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram user ID (integer, e.g. 123456789)",
+      "description": "7676723107",
       "required": true
     },
     "MongoDB_url": {
