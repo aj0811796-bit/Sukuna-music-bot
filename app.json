@@ -24,7 +24,7 @@
       "required": true
     },
     "MongoDB_url": {
-      "description": "MongoDB URL (can use Atlas or local Mongo)",
+      "description": "mongodb+srv://rj5706603:O95nvJYxapyDHfkw@cluster0.fzmckei.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "UPDATES_CHANNEL": {
